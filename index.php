@@ -1,1 +1,1 @@
-<? echo "Bonjour tout le monde !" ?>
+<? echo "Bonjour à toutes et à tous !" ?>
